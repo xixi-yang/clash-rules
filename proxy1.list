@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,albany.edu
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,stackoverflow.com
@@ -46,6 +45,9 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,help.steampowered.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steam-api.com
-DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,media.steampowered.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,cosersets.com
