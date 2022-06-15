@@ -46,5 +46,6 @@ DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,cosersets.com
