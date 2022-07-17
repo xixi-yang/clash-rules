@@ -4,9 +4,6 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
-DOMAIN-KEYWORD,n3ro
-DOMAIN-KEYWORD,dogess
-DOMAIN-KEYWORD,928net
 DOMAIN-SUFFIX,epio.app
 DOMAIN-SUFFIX,netsarang.net
 DOMAIN-SUFFIX,conair.me
@@ -43,6 +40,10 @@ DOMAIN-SUFFIX,anytype.io
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,cosersets.com
+
+DOMAIN-KEYWORD,n3ro
+DOMAIN-KEYWORD,dogess
+DOMAIN-KEYWORD,928net
 DOMAIN-SUFFIX,flower.yt
 DOMAIN-SUFFIX,flowercloud.xyz
 
