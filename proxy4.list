@@ -43,7 +43,8 @@ DOMAIN-SUFFIX,anytype.io
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,cosersets.com
-
+DOMAIN-SUFFIX,flower.yt
+DOMAIN-SUFFIX,flowercloud.xyz
 
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
