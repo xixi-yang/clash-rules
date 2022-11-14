@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,yuque.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,j2testzzjb.rsj.sh.cegn.cn
 DOMAIN-SUFFIX,fgame.top
 DOMAIN-KEYWORD,bilivideo
 DOMAIN-KEYWORD,bilibili
@@ -35,6 +34,9 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamserver.net
+
+# Wonders
+DOMAIN-SUFFIX,rsj.sh.cegn.cn
 
 IP-CIDR,103.10.124.0/24
 IP-CIDR,103.10.125.0/24
