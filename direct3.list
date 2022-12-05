@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,steamserver.net
 
 # Wonders
 DOMAIN-SUFFIX,rsj.sh.cegn.cn
+DOMAIN-KEYWORD,wondersgroup
 
 IP-CIDR,103.10.124.0/24
 IP-CIDR,103.10.125.0/24
