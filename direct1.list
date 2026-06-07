@@ -8,23 +8,23 @@ DOMAIN-SUFFIX,yuque.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,fgame.top
-DOMAIN-KEYWORD,bilivideo
-DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,zxcs.me
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,reshui.site
-DOMAIN-KEYWORD,epicgames
 DOMAIN-SUFFIX,yckceo.com
+DOMAIN-SUFFIX,lovecutes.net
 
+DOMAIN-KEYWORD,bilivideo
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,diyibanzhu
 DOMAIN-KEYWORD,yydstxt
 DOMAIN-KEYWORD,dybz
 DOMAIN-KEYWORD,banzhu
-DOMAIN-KEYWORD,cdp-master
-DOMAIN-KEYWORD,cdp-datanode
 
+# Steam
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,steamserver.net
 # Wonders
 DOMAIN-SUFFIX,rsj.sh.cegn.cn
 DOMAIN-KEYWORD,wondersgroup
+DOMAIN-KEYWORD,cdp-master
+DOMAIN-KEYWORD,cdp-datanode
 
 IP-CIDR,103.10.124.0/24
 IP-CIDR,103.10.125.0/24
